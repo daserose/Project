@@ -13,6 +13,8 @@ const personalMovieDB = {
     privat: false
 };
 
+
+
 for (let i =0; i < 2; i++) {
     const a = prompt("Last film you've seen?", ""),
           b = prompt("How do you evaluate this film?", "");
