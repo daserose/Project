@@ -126,4 +126,9 @@ console.log(typeof((+'infinity')));
 
 
 //Верно ли сравнение: "Ёжик" > "яблоко"?
-console.log("Ёжик" > "яблоко")
+console.log("Ёжик" > "яблоко")//see unicode table
+
+
+
+//Чему равно 0 || "" || 2 || undefined || true || falsе ?
+console.log(0 || "" || 2 || undefined || true || falsе);
