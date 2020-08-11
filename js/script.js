@@ -16,8 +16,8 @@ const hearts = document.querySelectorAll('.heart');
 // console.log(hearts);
 
 hearts.forEach(item => {
-    console.log(item);
+    // console.log(item);
 });
 
 const oneHeart = document.querySelector('div');// querySelector - first compatible element!!!
-console.log(oneHeart);
+// console.log(oneHeart);
